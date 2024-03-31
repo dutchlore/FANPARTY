@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+header {
+    border: 3px solid blue;
+    border-radius: 8px;
+}
+
+header p {
+    color: blue;
+    border: black;
+}
+
+header a {
+    color: white;
+    border-radius: 15px;
+    background-color: darkblue;
+    text-decoration: none;
+    padding: 3px;
+}
+
+main h1 {
+    border-radius: 10px;
+    border: 3px solid blueviolet;
+    text-align: center;
+    font-weight: normal;
+    color: orange; 
+}
+
+footer p {
+   background-color: lightgreen;
+   padding: 3px;
+}
+
+#contacts {
+    padding-left: 30px;
+}
+
+nav {
+    background-color: green;
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 40px;
+}
+
+.firework {
+    background-color: #CD5C5C;
+    color: white;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+#discount {
+    color: blue;
+}
+
+.gifts {
+    border-radius: 5px;
+    border: 1px solid lightblue
+}
+
+#delivery {
+    color: blue;
+}
+
+.cs {
+    border-radius: 1px;
+    border: 3px solid black;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+#wholesale {
+    color: blue;
+}
+
+#about_us {
+    color: blue;
+}
